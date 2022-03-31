@@ -1,6 +1,5 @@
 package GamblingSimulation;
 
-import java.util.Scanner;
 
 public class GamblingSimulation {
 
